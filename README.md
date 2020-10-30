@@ -1,1 +1,1 @@
-![github message](https://github.com/nazbav/NAZBAV/blob/main/art.png?raw=true "github message")
+![github message](https://github.com/nazbav/NAZBAV/blob/main/artpng?raw=true "github message")
