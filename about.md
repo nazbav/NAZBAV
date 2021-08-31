@@ -31,7 +31,8 @@
 
 ### STACK
 
-![HTML](https://img.shields.io/badge/LAMP-247BA0?style=for-the-badge&logo=LAMP&logoColor=white)
+![HTML](https://img.shields.io/badge/LAMP-78206E?style=for-the-badge&logo=LAMP&logoColor=white)
+
 ...
 
 ### IDE
