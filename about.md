@@ -29,10 +29,9 @@
 
 ...
 
-### TECH
+### STACK
 
-![HTML](https://img.shields.io/badge/PWA-247BA0?style=for-the-badge&logo=PWA&logoColor=white)    
-
+![HTML](https://img.shields.io/badge/LAMP-247BA0?style=for-the-badge&logo=LAMP&logoColor=white)
 ...
 
 ### IDE
