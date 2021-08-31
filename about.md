@@ -48,4 +48,21 @@
 
 ...
 
+### LEARN 
+
+stack
+
+![HTML](https://img.shields.io/badge/MEAN-78206E?style=for-the-badge&logo=MEAN&logoColor=white)
+
+frontend
+
+![HTML](https://img.shields.io/badge/Node.js-000099?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML](https://img.shields.io/badge/React.js-000099?style=for-the-badge&logo=react&logoColor=white)
+![HTML](https://img.shields.io/badge/Express.js-000099?style=for-the-badge&logo=express&logoColor=white)
+
+DB
+
+![HTML](https://img.shields.io/badge/PostgreSQL-000099?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+
+
 [1]: contact.md
