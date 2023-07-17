@@ -12,6 +12,5 @@
 
 [1]: contact.md
 [2]: https://vk.com/nazbav
-[3]: https://www.instagram.com/nazbavn/
 [4]: https://t.me/nazbav/
 [6]: http://n4v.ru/
