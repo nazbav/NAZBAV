@@ -2,11 +2,7 @@
 
 
 [https://vk.com/nazbav][2]
-
-[https://www.instagram.com/nazbavn/][3]
-
 [https://t.me/nazbav/][4]
-
 [http://n4v.ru/][4]
 
 
